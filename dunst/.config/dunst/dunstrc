@@ -1,0 +1,26 @@
+[global]
+width = 400
+height = (0,400)
+origin = bottom-right
+notification_limit = 10
+icon_corner_radius = 4
+frame_color = "#b7bdf8"
+separator_color= frame
+highlight = "#8aadf4"
+corner_radius = 8
+font = FiraCode Nerd Font Mono 14
+min_icon_size = 24
+max_icon_size = 64
+
+[urgency_low]
+background = "#24273a"
+foreground = "#cad3f5"
+
+[urgency_normal]
+background = "#24273a"
+foreground = "#cad3f5"
+
+[urgency_critical]
+background = "#24273a"
+foreground = "#cad3f5"
+frame_color = "#f5a97f"
